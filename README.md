@@ -1,4 +1,4 @@
-# Goggl - Unique Search Engine in the World
+# Goggl - Unique Search Engine
 
 ![Goggl](https://i.ibb.co/yQdYhtq/image.png)
 
